@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, eu sou o José Sinotti 👋
 
-<!--
-**jsinotti-hash/jsinotti-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gestor com mais de 30 anos de experiência em **Gerenciamento de Projetos, Liderança Educacional, Inovação Tecnológica e Gestão de Processos de Negócios (BPM)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Áreas de Atuação e Expertise
+* **Gestão e Engenharia:** Metodologias PMI, Gestão da Qualidade, Manufatura 4.0, Building Information Modeling (BIM) e Sistemas ERP (SAP/R3, Oracle).
+* **Educação e Inovação:** Aprendizagem Baseada em Projetos (ABProj), Ensino a Distância (EAD), e-Learning, Inteligência Artificial aplicada à educação e Jogos de Empresas.
+* **Inteligência Competitiva:** Desenvolvimento de portais corporativos e estratégias de tomada de decisão baseadas em dados.
+
+---
+
+### 📚 Formação Acadêmica
+* **Mestrado em Engenharia de Produção e Sistemas** — Universidade Federal de Santa Catarina (UFSC)
+* **Graduação em Engenharia Mecânica** — Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS)
